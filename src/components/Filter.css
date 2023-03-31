@@ -1,0 +1,20 @@
+.filter-container {
+    text-align: center;
+    color: #646363;
+    opacity: 1;
+    margin-right: 1rem;
+}
+
+.filter-container select {
+    border: 0;
+    border-bottom: 2px solid #fad9dd;
+    color: #646363;
+    font-size: medium;
+    -webkit-appearance: none;
+    text-align: center;
+}
+
+.filter-container select:focus {
+    outline: 0;
+    border-bottom: 2px solid aquamarine;
+}

@@ -1,0 +1,21 @@
+.pagination-span {
+    text-align: center;
+    width: 15rem;
+    color: #646363;
+    opacity: 1;
+}
+
+.pagination-span select {
+    border: 0;
+    border-bottom: 2px solid #fad9dd;
+    color: #646363;
+    font-size: medium;
+    -webkit-appearance: none;
+    text-align: center;
+}
+
+.pagination-span select:focus {
+    outline: 0;
+    border-bottom: 2px solid aquamarine;
+}
+
